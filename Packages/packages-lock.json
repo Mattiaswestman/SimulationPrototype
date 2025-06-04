@@ -1,5 +1,17 @@
 {
   "dependencies": {
+    "com.personal.services.common": {
+      "version": "file:../Submodules/Services/Assets/Common",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.personal.services.core": {
+      "version": "file:../Submodules/Services/Assets/Core",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.2d.animation": {
       "version": "9.1.3",
       "depth": 1,
