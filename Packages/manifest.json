@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.personal.services.audio": "file:../Submodules/Services/Assets/AudioService",
     "com.personal.services.common": "file:../Submodules/Services/Assets/Common",
     "com.personal.services.core": "file:../Submodules/Services/Assets/Core",
     "com.unity.collab-proxy": "2.6.0",

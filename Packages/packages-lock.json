@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.personal.services.audio": {
+      "version": "file:../Submodules/Services/Assets/AudioService",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.personal.services.common": {
       "version": "file:../Submodules/Services/Assets/Common",
       "depth": 0,
