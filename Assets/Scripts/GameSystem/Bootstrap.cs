@@ -2,7 +2,7 @@ using System.Collections;
 using UnityEngine;
 using Personal.Services;
 
-namespace Personal.MobileGameX.GameSystem
+namespace Personal.Simulation.GameSystem
 {
     public class Bootstrap : MonoBehaviour
     {
